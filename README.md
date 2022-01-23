@@ -169,24 +169,4 @@ Simply run `npm run analyze` from the project folder. This will run a build of y
 
 <br />
 
-# 💯 Shoutouts
-Huge ups to the following talented and rad folks who helped in countless ways. Thank you for all the support, code contributions, and discussions.
 
-### Developers
-- 🔥 [@tuckercs](https://github.com/tuckercs)
-- 🍝 [@iamkevingreen](https://github.com/iamkevingreen)
-- 🧈 [@mikehwagz](https://github.com/mikehwagz)
-- 😎 [@dictions](https://github.com/dictions)
-
-### Designers
-  - [@thecollectedworks](https://www.instagram.com/thecollectedworks/)
-  - [@joyntnotjoint](https://www.instagram.com/joyntnotjoint/)
-
-<br />
-
-# 🤝 License
-
-### [MIT](LICENSE)
-> [nickdimatteo.com](https://nickdimatteo.com) &nbsp;&middot;&nbsp;
-> Github [@ndimatteo](https://github.com/ndimatteo) &nbsp;&middot;&nbsp;
-> Instagram [@ndimatteo](https://instagram.com/ndimatteo)
